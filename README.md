@@ -2,6 +2,10 @@
 
 BHA-27 is a Python implementation of a custom hashing algorithm for validating and hashing BITS student ID numbers. It includes bit-level transformations, mathematical constants, and modular arithmetic to generate a secure hash based on user-defined hash lengths.
 
+## ⚠️ Disclaimer
+
+This project was developed purely for academic and educational purposes as part of a student study initiative. Any resemblance to BITS Pilani identifiers is used solely to simulate realistic input formats and does not imply endorsement, affiliation, or official representation of BITS Pilani or its campuses.
+
 ## 🔍 Features
 - Validates BITS-style student IDs using regex
 - Allows customizable hash size (8, 16, 24, 32 bits, etc.)
@@ -30,6 +34,4 @@ BHA-27 is a Python implementation of a custom hashing algorithm for validating a
 	  4. BITWISE ROTATE the result from step ii) to the left by 9 bits.
     5. Perform Modulo Addition of the results from step iii) and step iv).
    
-## ⚠️ Disclaimer
 
-This project was developed purely for academic and educational purposes as part of a student study initiative. Any resemblance to BITS Pilani identifiers is used solely to simulate realistic input formats and does not imply endorsement, affiliation, or official representation of BITS Pilani or its campuses.
