@@ -38,4 +38,8 @@ This project was developed purely for academic and educational purposes as part 
 ## 🚀 Usage
 
 ```bash
-python Hashing_Final.py
+$ python Hashing_Final.py
+Enter your ID Number: 2021B4A7123P
+Enter size of the hash (8, 16, 24, 32, etc): 16
+...
+Final hash : Final hash : a27aa27aa478a078a27aa27aa478087ac488e681a478a27aa078a47aa278a278a278
