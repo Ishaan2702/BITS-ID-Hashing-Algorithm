@@ -8,7 +8,7 @@ def BHA27(id_input):
 
 # The random string approach was abandonded due to the complete random nature of the generated string.  
 # In order for BHA_27 to produce a pseudorandom output, it was decided to use hard coded constants instead of a random string.
-# The code for random salts is present throughout this file enclosed in tripple brackets.
+# The code for random salts is still present throughout this file enclosed in tripple brackets.
 
     '''def generate_random_string(length):
         # Generate a random string of the specified length
