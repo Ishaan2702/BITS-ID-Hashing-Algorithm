@@ -33,5 +33,9 @@ This project was developed purely for academic and educational purposes as part 
 	  3. BITWISE ROTATE the result from step ii) to the right by 7 bits. 
 	  4. BITWISE ROTATE the result from step ii) to the left by 9 bits.
     5. Perform Modulo Addition of the results from step iii) and step iv).
-   
 
+
+## 🚀 Usage
+
+```bash
+python Hashing_Final.py
