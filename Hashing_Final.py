@@ -1,6 +1,6 @@
 # Code for a hashing algo that takes in the ID number of a student, verifies it and returns its hash.
 
-def BHA27(id_input):
+def ISH27(id_input):
     
     import random
     import string
@@ -158,4 +158,5 @@ while True:
     else:
         print("Your ID Number is invalid. Please enter a valid BITS ID!\n")
 
-BHA27(id_input) # Call the defined function BHA27().
+ISH27(id_input) # Call the defined function ISH27().
+
