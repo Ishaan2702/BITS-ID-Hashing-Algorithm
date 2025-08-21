@@ -1,6 +1,6 @@
-# BHA-27 (BITS ID Hashing Algorithm-27): Custom ID Hashing Algorithm for BITS IDs.
+# ISH-27 (BITS ID Hashing Algorithm-27): Custom ID Hashing Algorithm for BITS IDs.
 
-BHA-27 is a Python implementation of a custom hashing algorithm for validating and hashing BITS student ID numbers. It includes bit-level transformations, mathematical constants, and modular arithmetic to generate a secure hash based on user-defined hash lengths.
+ISH-27 is a Python implementation of a custom hashing algorithm for validating and hashing BITS student ID numbers. It includes bit-level transformations, mathematical constants, and modular arithmetic to generate a secure hash based on user-defined hash lengths.
 
 ## ⚠️ Disclaimer
 
